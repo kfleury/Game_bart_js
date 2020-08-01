@@ -1,0 +1,5 @@
+cp -r /home/kfleury/delivery/Bae/include .
+cp -r /home/kfleury/delivery/Bae/lib/ .
+cp -r /home/kfleury/delivery/Bae/src .
+cp -r /home/kfleury/delivery/Bae/tests .
+cp /home/kfleury/delivery/Bae/Makefile .
